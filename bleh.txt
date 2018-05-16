@@ -1,0 +1,10 @@
+#@client.command(name='addquote', description='Add a quote to the list of quotes', brief='Add a quote', aliases=['Addquote', 'AddQuote', 'addQuote'])
+#async def add(ctx, q : str, d : str):
+    #await client.say(f"Adding quote {str(q)} with date {str(d)}.")
+    #quotes.append(str(q))
+    #dates.append(str(d))
+    #with open("quotes.csv") as csvfile:
+        #writer = csv.writer(csvfile)
+        #for x in range(len(quotes)):
+            #writer.writerows(quotes[x] + "," + dates[x])       
+    #await readlist()
